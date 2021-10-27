@@ -52,7 +52,7 @@ cutadapt==1.18
 cwltool==1.0.20181217162649
 cycler==0.10.0
 Cython==0.29.2
-dask==1.0.0+dfsg
+dask==2021.10.0
 decorator==4.3.0
 DendroPy==4.4.0
 dill==0.2.9
