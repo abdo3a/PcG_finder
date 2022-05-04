@@ -14,7 +14,8 @@ PcG-finder is scalable and can be used to process a variety of datasets, ranging
 
 PcG-finder is described in more detail in the following publication:
 
-The article is still in preparation.
+Sharaf A, Vijayanathan M, Oborník M, Mozgová I (2022) Phylogenetic profiling resolves early emergence of PRC2 and illuminates its functional core. Life Science Alliance 5(7) e202101271. https://doi.org/10.26508/lsa.202101271
+
 
  A visual overview of the major steps in PcG-finder is shown below:
 
