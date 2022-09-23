@@ -126,7 +126,7 @@ porechop==0.2.4
 presto==0.5.10
 prometheus-client==0.6.0
 prompt-toolkit==1.0.15
-protobuf==3.6.1
+protobuf==3.18.3
 prov==1.5.2
 psutil==5.5.1
 py==1.7.0
