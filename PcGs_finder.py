@@ -91,9 +91,9 @@ for file_n in files('./'):
             anno_path = os.path.join(out_path, 'annotations/')
             eg_in = os.path.join('./', file_n)       
             eg_out = os.path.join('./', file_n.replace('.fa','')) 
-            seed_orthologs = os.path.join('./', file_n.replace('.fa','.emapper.seed_orthologs'))
             os.system('emapper.py -m diamond --cpu %s -i %s -o %s'%(threads,eg_in,eg_out))
-            os.remove(seed_orthologs)
+            os.remove(os.path.join('./', file_n.replace('.fa','.emapper.seed_orthologs')))
+            os.remove(os.path.join('./', file_n.replace('.fa','.emapper.hits')))
             os.remove(eg_in)
         else:
             os.remove(os.path.join('./', file_n))
