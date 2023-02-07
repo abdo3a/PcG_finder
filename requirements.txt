@@ -45,7 +45,7 @@ cloudpickle==0.8.0
 CNVkit==0.9.5
 colorama==0.3.7
 configobj==5.0.6
-cryptography==2.6.1
+cryptography==39.0.1
 csb==1.2.5
 cupshelpers==1.0
 cutadapt==1.18
