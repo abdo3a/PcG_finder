@@ -35,7 +35,7 @@ botocore==1.12.103
 Brlapi==0.6.7
 bz2file==0.98
 CacheControl==0.11.7
-certifi==2018.8.24
+certifi==2022.12.7
 changeo==0.4.5
 chardet==3.0.4
 circlator==1.5.5
